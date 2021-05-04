@@ -280,6 +280,10 @@ Full interactive notebook (through Binder) available at https://github.com/sidat
 
 ## Questions?
 
+https://www.si.edu/openaccess
+
+https://github.com/MikeTrizna/CSVConf2021_siopenaccess
+
 ---
 
 <style>
